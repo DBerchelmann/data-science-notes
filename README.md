@@ -17,3 +17,8 @@ Notes regarding github so far:
 - To send the file to github, finish this process by typing 
     - git push and hit return
 - To verify the changes were made, check the status of your repository at github.com to confirm
+
+# Let's add a few more notes to complete this exercise
+
+- Please remember that case matters so all git commands in the terminal need to be lowercase, disregard the case usage above. 
+    If it isn't done in lowercase, the commands will not work
