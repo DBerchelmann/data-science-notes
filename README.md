@@ -1,7 +1,7 @@
 # This is a README file for the data-science-notes repository
 
 <h2>Here is an emoji :grinning: to get a smile on your face before reading </h2>
-Notes regarding github so far:
+<h3>Notes regarding github so far:</h3>
 
 
 
