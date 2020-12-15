@@ -8,7 +8,7 @@ Notes regarding github so far:
 - Once there, type git clone (and then paste your SSH Key)
 - Your repository is now remotely connected from your computer to Github
 - Enter the newly cloned directory by doing cd (input directory name)
-- To begin adding files, you can type "code (file name) could be .txt or .md or .py or whatever
+- To begin adding files, you can type *code (file name)* could be .txt or .md or .py or whatever
 - After saving your files, you can then check thes status of your repository to see if any changes have been
 - Check for those changes by typing Git Status
 - To add those changed, type Git Add (the file name desired)
@@ -21,4 +21,4 @@ Notes regarding github so far:
 # Let's add a few more notes to complete this exercise
 
 - **Please remember** that case matters so all git commands in the terminal need to be *lowercase*, disregard the case usage above. 
-    - If it isn't done in lowercase, the commands will not work
+    - If it isn't done in lowercase, the commands will not work.
