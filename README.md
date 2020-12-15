@@ -2,6 +2,7 @@
 
 Notes regarding github so far:
 
+Here is an emoji :grinning: to get a smile on your face before reading 
 - Create your repository at github.com/new
 - After creating your repository, copy the SSH key and return to you terminal
 - Once in the terminal, enter the desired directory where you want the repository to live
