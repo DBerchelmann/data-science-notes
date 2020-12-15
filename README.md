@@ -21,4 +21,4 @@ Notes regarding github so far:
 # Let's add a few more notes to complete this exercise
 
 - Please remember that case matters so all git commands in the terminal need to be lowercase, disregard the case usage above. 
-    If it isn't done in lowercase, the commands will not work
+    - If it isn't done in lowercase, the commands will not work
