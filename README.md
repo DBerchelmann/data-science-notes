@@ -25,3 +25,10 @@
 
 - **Please remember** that case matters so all git commands in the terminal need to be *lowercase*, disregard the case usage above. 
     - If it isn't done in lowercase, the commands will not work.
+    
+# A few more lines of text to practice uploading to Git
+
+<h3>Good Morning:</h3>
+
+- My github account will be adding some SQL over the coming days.
+- If working on a communal document, always make sure to **git pull** before pushing
