@@ -32,3 +32,35 @@
 
 - My github account will be adding some SQL over the coming days.
 - If working on a communal document, always make sure to **git pull** before pushing
+
+# An update regarding SQL
+
+- The language seems fairly intuitive and I feel confident in it so far. 
+- Here are a few items you should remember:
+    - SHOW DATABASES;
+    - USE (database_name);
+    - SELECT database();
+    - SHOW tables; 
+    - DESCRIBE (database_name);
+    - SHOW CREATE TABLE (database_name);
+
+    **Order matters**
+	- SELECT (column_name)
+		- FROM (table_name)
+			- WHERE column_name = ‘value’;
+
+    - If your problem has the word “and” in it, then you will probably use “and” in your SQL solution.
+
+    - If your problem has the world “or” in it, then you will probably use “or”
+      in your SQL solution.
+
+**C.R.U.D — SQL**
+*These are the 4 basic functions of computer programming**
+
+**CREATE**
+
+**READ**
+
+**UPDATE**
+
+**DELETE**
